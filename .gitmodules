@@ -1,0 +1,16 @@
+[submodule "MU_BASECORE"]
+	path = MU_BASECORE
+	url = https://github.com/Microsoft/mu_basecore.git
+	branch = dev/201905
+[submodule "Common/MU"]
+	path = Common/MU
+	url = https://github.com/Microsoft/mu_plus.git
+	branch = dev/201905
+[submodule "Common/MU_TIANO"]
+	path = Common/MU_TIANO
+	url = https://github.com/Microsoft/mu_tiano_plus.git
+	branch = dev/201905
+[submodule "Common/MU_OEM"]
+	path = Common/MU_OEM
+	url = https://github.com/Microsoft/mu_oem_sample.git
+	branch = dev/201905
